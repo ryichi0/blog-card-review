@@ -16,7 +16,7 @@ At the first glance it looked easy to manage but some part was tricky for a star
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://ryichi0.github.io/blog-card-review/)
+- Live Site URL: [card preview](https://ryichi0.github.io/blog-card-review/)
 
 ## My process
 
