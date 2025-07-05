@@ -10,13 +10,13 @@ At the first glance it looked easy to manage but some part was tricky for a star
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![blog card preview](./assets/images/blog_card_preview.png)
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://ryichi0.github.io/blog-card-review/)
 
 ## My process
 
@@ -34,14 +34,6 @@ At the first glance it looked easy to manage but some part was tricky for a star
 
 i think i may continue learning html tags, because it was challenging for me to use them in order to structure my text-based content.
 and also a deep focus on media queries.
-
-
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 
 ## Acknowledgments
