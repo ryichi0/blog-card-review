@@ -15,7 +15,7 @@ At the first glance it looked easy to manage but some part was tricky for a star
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution url](https://www.frontendmentor.io/solutions/another-solution-for-blog-card-WTf49C4NmV)
 - Live Site URL: [card preview](https://ryichi0.github.io/blog-card-review/)
 
 ## My process
